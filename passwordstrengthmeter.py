@@ -12,7 +12,7 @@ st.markdown("""
             .main {text-align: center;}
             .stTextInput {width: 60% !important; margin: auto;}
             .stButton button { width: 50%; background-color:rgb(0, 0, 0); color: white; font-size: 18px; }
-            .stButton button:hover { background-color:rgb(113, 118, 122); }
+            .stButton button:hover { background-color: white; }
                 </style>
             """, unsafe_allow_html=True)
 
